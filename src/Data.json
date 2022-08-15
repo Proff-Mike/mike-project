@@ -1,0 +1,71 @@
+[
+  {
+    "company": "Trotro Tractor",
+    "location": "Santeo",
+    "equipments": "tractor, combine harvestor, fertilizer spreader, seeders, balers",
+    "website": "https://www.trotrotractor.com/"
+  },
+
+  {
+    "company": "Hitesh Impex Gh",
+    "location": "Nungua",
+    "equipments": "tractor, combine harvestor, seeders",
+    "website": "none"
+  },
+
+  {
+    "company": "Seshie Technologies",
+    "location": "Kumasi",
+    "equipments": "tractor, combine harvestor, seeders, pivot sprinklers",
+    "website": ""
+  },
+
+  {
+  "company": "Massey Ferguson Co. Ltd",
+    "location": "Kumasi",
+    "equipments": "tractor, combine harvestor, seeders, pivot sprinklers",
+    "website": "https://www.masseyferguson.com.gh/"
+  },
+
+{
+  "company": "Tractor Provider Ltd",
+    "location": "Kumasi",
+    "equipments": "tractor, combine harvestor, seeders, pivot sprinklers",
+    "website": "https://www.tractorprovider.com/ghana/"
+  },
+
+{
+  "company": "Seshie Technologies",
+    "location": "Tema",
+    "equipments": "tractor, combine harvestor, seeders, pivot sprinklers",
+    "website": ""
+  },
+
+{
+  "company": "Agro Services Ltd",
+    "location": "Accra",
+    "equipments": "tractor, combine harvestor, seeders, pivot sprinklers",
+    "website": "https://www.agroasiatractors.com/gh/"
+  },
+        
+{
+  "company": "Aeco Agricultural Services",
+    "location": "Kumasi",
+    "equipments": "tractor, combine harvestor, seeders, pivot sprinklers",
+    "website": "https://aecotractors.com/ghana/"
+  },
+
+{
+  "company": "Sino Truck",
+    "location": "Kumasi",
+    "equipments": "tractor, combine harvestor, seeders, pivot sprinklers",
+    "website": "http://www.sinotruk.cool/about?gclid=EAIaIQobChMI7sSk2P7D-QIVCtxRCh1y4AFDEAAYASABEgIVbPD_BwE"
+  },
+
+{
+  "company": "Mantrac Ghana Ltd",
+    "location": "Kumasi",
+    "equipments": "tractor, combine harvestor, seeders, pivot sprinklers",
+    "website": "https://www.mantracgroup.com/en-gh/"
+  }
+]
